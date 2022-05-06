@@ -6,9 +6,9 @@
 ## Demo : https://www.youtube.com/watch?v=Qrn8nIfEKlo
 
 ## หน้าตาแอป
-![image](https://ibb.co/gRG8xJ8)
+![image](https://i.ibb.co/tJS69D6/1.jpg)
 
 ## เพิ่ม contact
-![image](https://ibb.co/Rj0fKRs)
+![image](https://i.ibb.co/5K8m3bS/2.jpg)
 
 ## ปุ่ม แก้ไข/ข้อมูล contact
